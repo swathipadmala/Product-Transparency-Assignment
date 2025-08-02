@@ -33,6 +33,7 @@ An open-source FastAPI microservice that intelligently enhances product descript
 git clone https://github.com/Swathipadmala/product_QA.git
 cd product_QA
 
+main.py,question_generator.py,scoring.py should be in app folder
 
 2. Create and activate a virtual environment
 bash
